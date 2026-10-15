@@ -1,16 +1,16 @@
 {
- "loader_version": "1.5.0",
+ "loader_version": "1.5.1",
  "overlay_version": "3.1.2",
  "files": [
   {
    "path": "manifest.json",
-   "sha256": "e924d06521385801544b42b7ff8963d5a7ca8717c41d23028a9a5dfaab188ffe",
+   "sha256": "eabddc6cb1b7dee37183b5b80e6521d03253fbb1379185aa55a62d7c472b546d",
    "size": 3489
   },
   {
    "path": "loader/loader.exe",
-   "sha256": "8e122e39920daff63f48a02588702e6919c307954e66b1c12ed8a37d27044ae8",
-   "size": 670869
+   "sha256": "f744a0e2d6f7017752f3e44725c4f581990b2f72725b2dd8b866f7b19c20432a",
+   "size": 672917
   },
   {
    "path": "overlay/ImGui.NET.dll",
