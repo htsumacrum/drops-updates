@@ -1,16 +1,11 @@
 {
- "loader_version": "1.6.0",
+ "loader_version": "1.7.0",
  "overlay_version": "3.1.2",
- "build_id": 1792097629570,
+ "build_id": 1792100829764,
  "files": [
   {
-   "path": "manifest.json",
-   "sha256": "efb615abea42b763ed3cb98474fa1c377782b26be13ec12fdb8870c8d8cb4805",
-   "size": 3489
-  },
-  {
    "path": "loader/loader.exe",
-   "sha256": "ef6e6c815a638c4b9031ccef6eaa7808f547c33e7c5ce58af5aaff424d8ff213",
+   "sha256": "39f3b6bdb5902d14dea3c892eb07e92b1d6731cf46c3a529a8556b56d307ce43",
    "size": 683669
   },
   {
