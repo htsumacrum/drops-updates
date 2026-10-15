@@ -1,12 +1,12 @@
 {
- "loader_version": "1.7.0",
+ "loader_version": "1.7.1",
  "overlay_version": "3.1.2",
- "build_id": 1792100829764,
+ "build_id": 1792102450215,
  "files": [
   {
    "path": "loader/loader.exe",
-   "sha256": "39f3b6bdb5902d14dea3c892eb07e92b1d6731cf46c3a529a8556b56d307ce43",
-   "size": 683669
+   "sha256": "7d154437b4062085b6e29d9f2e3026dd2758608c86e66a32978181855e64f2b3",
+   "size": 685717
   },
   {
    "path": "overlay/ImGui.NET.dll",
