@@ -1,0 +1,111 @@
+{
+ "loader_version": "1.2.0",
+ "overlay_version": "3.1.2",
+ "files": [
+  {
+   "path": "loader/loader.exe",
+   "sha256": "c4a4f88704a7be9fbedaceb1e925283989767f6e5015491005ffc25f241aa83a",
+   "size": 658581
+  },
+  {
+   "path": "overlay/ImGui.NET.dll",
+   "sha256": "c70f09d08447be2ee26b747b129798c7cac53f5a55e821b919f2dcba68743112",
+   "size": 228864
+  },
+  {
+   "path": "overlay/Microsoft.DotNet.PlatformAbstractions.dll",
+   "sha256": "b1f4ad169fb192747f5d2d3111c01db4257e3ec1f7f18f301f7fc4be3b869ff3",
+   "size": 23424
+  },
+  {
+   "path": "overlay/Microsoft.Extensions.DependencyModel.dll",
+   "sha256": "48cb00c7cb7debe78133f435d66dfe92c951897c608b58fb993d73254d0973ac",
+   "size": 85280
+  },
+  {
+   "path": "overlay/Silk.NET.Core.dll",
+   "sha256": "56e4a018bd9a4e0fb94f97331191db7e86af98b0e23082ea36863f146e217a5c",
+   "size": 310032
+  },
+  {
+   "path": "overlay/Silk.NET.GLFW.dll",
+   "sha256": "9c3c71d2fe0b01bb4fd00e7047001b99db8869384b7ba6b9750f389eece224dc",
+   "size": 84752
+  },
+  {
+   "path": "overlay/Silk.NET.Input.Common.dll",
+   "sha256": "4979f2a0afd682e740c247fb103cdd8368d87381728cf633d3bfa4515c0289d1",
+   "size": 41232
+  },
+  {
+   "path": "overlay/Silk.NET.Input.Glfw.dll",
+   "sha256": "43d615b40d28824c7b7eb488e2b891a09ed6353dd3d0d73a366c67abe8b5270e",
+   "size": 49424
+  },
+  {
+   "path": "overlay/Silk.NET.Maths.dll",
+   "sha256": "c3b2b856435a1824f21d0467241f7ef7929980fc11a61d651166ce60828475eb",
+   "size": 324368
+  },
+  {
+   "path": "overlay/Silk.NET.OpenGL.dll",
+   "sha256": "65fa25d99f255e459dc4604186ee351a7d9a0d636b4c551bc14cf6c981ad805e",
+   "size": 2814224
+  },
+  {
+   "path": "overlay/Silk.NET.Windowing.Common.dll",
+   "sha256": "7c80870d5135714dc30efa71e4adb0de9a8c699602cd7e5409d6b21eaa5fad21",
+   "size": 54032
+  },
+  {
+   "path": "overlay/Silk.NET.Windowing.Glfw.dll",
+   "sha256": "62d66480ff7e9973a231c5898e7c293d814558e5e156f59898ba41db2b98f4a8",
+   "size": 41744
+  },
+  {
+   "path": "overlay/esp.cfg",
+   "sha256": "19ed0948c12ea556bfff0ed10bf2bc9775433cd97b4d46b364669aea7b835a78",
+   "size": 359
+  },
+  {
+   "path": "overlay/imgui.ini",
+   "sha256": "68e286a0f4b010097db2ad6079f583f30150a86cbc84ef4b991076553398f933",
+   "size": 66
+  },
+  {
+   "path": "overlay/overlay.deps.json",
+   "sha256": "ca1fc7fb7f7dd3d9b1bd56ef13cc196fe1110c27d674b31b38b7fa05e40625c0",
+   "size": 10553
+  },
+  {
+   "path": "overlay/overlay.dll",
+   "sha256": "e1a8cefc76d96b1a0110aa4fdffb344e6fb9ac7fe2da1c3babe0dba82cc2b356",
+   "size": 103936
+  },
+  {
+   "path": "overlay/overlay.exe",
+   "sha256": "f038936eff20e05d4b5b6325c602e6a21a3e2eb88fadc424d0a7687f0ac188f4",
+   "size": 156160
+  },
+  {
+   "path": "overlay/overlay.runtimeconfig.json",
+   "sha256": "05917b409d59af31bc8d3021bc06302a0c21c7d05b449603d6cc9f0301a2b66c",
+   "size": 516
+  },
+  {
+   "path": "overlay/version.txt",
+   "sha256": "391e4b5f5b32be0ae28c133c6648fd4ac5b3ee62a1425301fa798dfeb6d86719",
+   "size": 5
+  },
+  {
+   "path": "overlay/runtimes/win-x64/native/cimgui.dll",
+   "sha256": "f1cc89cf1882594991060cbe3f84f44101a04ec1400e2c9223b3230376bcd25d",
+   "size": 932864
+  },
+  {
+   "path": "overlay/runtimes/win-x64/native/glfw3.dll",
+   "sha256": "a107a8e8378527897d5e99f3a53d01a7289ef5fda564952fbec2769386eccd58",
+   "size": 232960
+  }
+ ]
+}
