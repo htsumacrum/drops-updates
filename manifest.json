@@ -2,37 +2,12 @@
  "loader_version": "1.7.5",
  "overlay_version": "3.1.4",
  "loader_notes": "\u2022 Icone do DROPS na barra de tarefas (antes mostrava o icone padrao do Windows)\n\u2022 Build limpo: 0 avisos de compilacao",
- "build_id": 1792166788661,
+ "build_id": 1792167799116,
  "files": [
-  {
-   "path": ".gitattributes",
-   "sha256": "586149099d7ad41fbb6c89b4da3409db238df6d36f01042d43c38b94140ce286",
-   "size": 287
-  },
-  {
-   "path": ".gitignore",
-   "sha256": "5dea3a574a3f241fa014be268bd43556ec76c0dba339fb5e1cc07b8fe44029a7",
-   "size": 33
-  },
-  {
-   "path": "loader/.gitignore",
-   "sha256": "3666a5d28adf9c17a4d960212836c3f51fcef1745a480d42d86cb3596d3ebffd",
-   "size": 23
-  },
-  {
-   "path": "loader/loader.cfg",
-   "sha256": "c193fea7aadf7927aa717db861fbb6b03f31e6affe8560d3d803cf6c346d4afe",
-   "size": 159
-  },
   {
    "path": "loader/loader.exe",
    "sha256": "d4a4c2b88edfcc5dfae177807ee75db791b655359345f3fad458253e1d05e049",
    "size": 702613
-  },
-  {
-   "path": "loader/loader_debug.txt",
-   "sha256": "9d8d486860426427ec917bc9e9170eca5b8070273f0ac37ffc8a46407f950416",
-   "size": 398
   },
   {
    "path": "overlay/ImGui.NET.dll",
