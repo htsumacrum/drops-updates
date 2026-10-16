@@ -1,7 +1,7 @@
 {
  "loader_version": "1.7.3",
- "overlay_version": "3.1.2",
- "build_id": 1792120449616,
+ "overlay_version": "3.1.3",
+ "build_id": 1792121182356,
  "files": [
   {
    "path": ".gitattributes",
@@ -120,8 +120,8 @@
   },
   {
    "path": "overlay/version.txt",
-   "sha256": "391e4b5f5b32be0ae28c133c6648fd4ac5b3ee62a1425301fa798dfeb6d86719",
-   "size": 5
+   "sha256": "cf11741c8e086c0cf7757e9183dceaa8139435c815b952714fccc38e3d6a712f",
+   "size": 7
   },
   {
    "path": "overlay/runtimes/win-x64/native/cimgui.dll",
