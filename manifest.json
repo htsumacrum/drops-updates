@@ -1,7 +1,8 @@
 {
- "loader_version": "1.7.3",
+ "loader_version": "1.7.4",
  "overlay_version": "3.1.3",
- "build_id": 1792121182356,
+ "loader_notes": "\u2022 Tela de update mostra o tamanho real do download e o que mudou nesta versao\n\u2022 Correcao da assinatura do update (antes abortava sempre)",
+ "build_id": 1792162924858,
  "files": [
   {
    "path": ".gitattributes",
@@ -25,8 +26,8 @@
   },
   {
    "path": "loader/loader.exe",
-   "sha256": "6a62bc6af08c11dafd3ccdabdb02fcde5fb6faebd4732a722934284f112ccb04",
-   "size": 697493
+   "sha256": "b5c6fe61ff73ca3205cba9e48058f3202416b9c7dd99231334315076b6ade280",
+   "size": 698005
   },
   {
    "path": "loader/loader_debug.txt",
