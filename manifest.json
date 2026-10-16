@@ -1,8 +1,8 @@
 {
  "loader_version": "1.7.5",
- "overlay_version": "3.1.3",
+ "overlay_version": "3.1.4",
  "loader_notes": "\u2022 Icone do DROPS na barra de tarefas (antes mostrava o icone padrao do Windows)\n\u2022 Build limpo: 0 avisos de compilacao",
- "build_id": 1792164559503,
+ "build_id": 1792166788661,
  "files": [
   {
    "path": ".gitattributes",
@@ -101,13 +101,13 @@
   },
   {
    "path": "overlay/overlay.deps.json",
-   "sha256": "ca1fc7fb7f7dd3d9b1bd56ef13cc196fe1110c27d674b31b38b7fa05e40625c0",
-   "size": 10553
+   "sha256": "a0937ef14942e8ec1f28fde95fc8ad38af31361ed72edbb776f1469d54699840",
+   "size": 13294
   },
   {
    "path": "overlay/overlay.dll",
-   "sha256": "e1a8cefc76d96b1a0110aa4fdffb344e6fb9ac7fe2da1c3babe0dba82cc2b356",
-   "size": 103936
+   "sha256": "761fac49307023e705fc93d75230934f592f1ccb522587d230d5b3f01af25577",
+   "size": 104448
   },
   {
    "path": "overlay/overlay.exe",
@@ -121,7 +121,7 @@
   },
   {
    "path": "overlay/version.txt",
-   "sha256": "cf11741c8e086c0cf7757e9183dceaa8139435c815b952714fccc38e3d6a712f",
+   "sha256": "57692054caf7845337e4b5b489556f4f629a9bde153cb4d3908c5ec9b344b6f8",
    "size": 7
   },
   {
