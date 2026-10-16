@@ -1,0 +1,6 @@
+# O manifest e sua assinatura sao verificados byte-a-byte pelo loader
+# contra o que o raw.githubusercontent.com serve (sempre LF).
+# Sem "-text", o autocrlf do Windows converte LF->CRLF no checkout e a
+# assinatura feita na worktree nunca confere com os bytes baixados.
+manifest.json -text
+manifest.sig -text

@@ -1,22 +1,37 @@
 {
- "loader_version": "1.7.2",
+ "loader_version": "1.7.3",
  "overlay_version": "3.1.2",
- "build_id": 1792103032108,
+ "build_id": 1792120449616,
  "files": [
   {
+   "path": ".gitattributes",
+   "sha256": "e302667c2fa9b0805518400192d457cbd1f2637276d3424c6353f572e6bb24c0",
+   "size": 310
+  },
+  {
+   "path": ".gitignore",
+   "sha256": "5dea3a574a3f241fa014be268bd43556ec76c0dba339fb5e1cc07b8fe44029a7",
+   "size": 33
+  },
+  {
+   "path": "loader/.gitignore",
+   "sha256": "3666a5d28adf9c17a4d960212836c3f51fcef1745a480d42d86cb3596d3ebffd",
+   "size": 23
+  },
+  {
    "path": "loader/loader.cfg",
-   "sha256": "e4a70bd4b079d6fb31aa913e56985f1006fe3455397bb919f61f3f46d28b12b8",
-   "size": 160
+   "sha256": "c193fea7aadf7927aa717db861fbb6b03f31e6affe8560d3d803cf6c346d4afe",
+   "size": 159
   },
   {
    "path": "loader/loader.exe",
-   "sha256": "08e9a9587c476b271c83d027e51cc9cca3fe75e139c94fc10a195182bf6fb352",
-   "size": 685717
+   "sha256": "6a62bc6af08c11dafd3ccdabdb02fcde5fb6faebd4732a722934284f112ccb04",
+   "size": 697493
   },
   {
    "path": "loader/loader_debug.txt",
-   "sha256": "1e5380d8c9c70ba0a185f9fbab0336fcbecdad25113990b9213d3e6e5f7b53d3",
-   "size": 199
+   "sha256": "9d8d486860426427ec917bc9e9170eca5b8070273f0ac37ffc8a46407f950416",
+   "size": 398
   },
   {
    "path": "overlay/ImGui.NET.dll",
