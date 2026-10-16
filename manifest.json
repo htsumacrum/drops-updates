@@ -1,13 +1,14 @@
 {
- "loader_version": "1.7.5",
+ "loader_version": "1.7.6",
  "overlay_version": "3.1.4",
- "loader_notes": "\u2022 Icone do DROPS na barra de tarefas (antes mostrava o icone padrao do Windows)\n\u2022 Build limpo: 0 avisos de compilacao",
- "build_id": 1792167799116,
+ "loader_notes": "\u2022 Update obrigatorio disponivel (quando ativado, o cliente recebe sem poder adiar)\n\u2022 Correcao: falha de download nao bloqueia mais as proximas tentativas",
+ "loader_force": false,
+ "build_id": 1792168184087,
  "files": [
   {
    "path": "loader/loader.exe",
-   "sha256": "d4a4c2b88edfcc5dfae177807ee75db791b655359345f3fad458253e1d05e049",
-   "size": 702613
+   "sha256": "d38376048f2ce00bf15ef1a8355f5ba94897a66f3910e6ae21b1a974cb8b3afa",
+   "size": 703125
   },
   {
    "path": "overlay/ImGui.NET.dll",
