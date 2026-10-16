@@ -1,8 +1,8 @@
 {
- "loader_version": "1.7.4",
+ "loader_version": "1.7.5",
  "overlay_version": "3.1.3",
- "loader_notes": "\u2022 Tela de update mostra o tamanho real do download e o que mudou nesta versao\n\u2022 Correcao da assinatura do update (antes abortava sempre)",
- "build_id": 1792162924858,
+ "loader_notes": "\u2022 Icone do DROPS na barra de tarefas (antes mostrava o icone padrao do Windows)\n\u2022 Build limpo: 0 avisos de compilacao",
+ "build_id": 1792163656537,
  "files": [
   {
    "path": ".gitattributes",
@@ -26,8 +26,8 @@
   },
   {
    "path": "loader/loader.exe",
-   "sha256": "b5c6fe61ff73ca3205cba9e48058f3202416b9c7dd99231334315076b6ade280",
-   "size": 698005
+   "sha256": "d4a4c2b88edfcc5dfae177807ee75db791b655359345f3fad458253e1d05e049",
+   "size": 702613
   },
   {
    "path": "loader/loader_debug.txt",
