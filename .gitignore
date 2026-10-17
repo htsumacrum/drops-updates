@@ -1,2 +1,19 @@
 ﻿loader.cfg
 loader_debug.txt
+loader.build
+loader/*.tmp
+loader/update.log
+
+# Overlay: o release entrega win-x64; os outros runtimes sao copiados pelo
+# publish do overlay e voltam como lixo nao rastreado (6,7 MB).
+overlay/runtimes/linux-*/
+overlay/runtimes/osx*/
+overlay/runtimes/osx/
+overlay/runtimes/win-arm64/
+overlay/runtimes/win-x86/
+
+# Estado de execucao escrito pelo overlay em tempo de uso
+overlay/menu_debug.txt
+overlay/players.json
+overlay/aim_debug.txt
+overlay/ultima_tecla.txt

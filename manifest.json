@@ -1,14 +1,19 @@
 {
- "loader_version": "1.7.6",
+ "loader_version": "1.7.7",
  "overlay_version": "3.1.4",
- "loader_notes": "\u2022 Update obrigatorio disponivel (quando ativado, o cliente recebe sem poder adiar)\n\u2022 Correcao: falha de download nao bloqueia mais as proximas tentativas",
+ "loader_notes": "- Updater: falha de download nao marca mais o build como aplicado (fim do travamento em versao antiga)\n- Correcao: acha o overlay em instalacao limpa (pasta overlay ao lado do loader)\n- Seguranca: overlay.exe verificado pelo sha256 do manifest antes de iniciar\n- Fundo mais leve (cache) + convite do Discord configuravel - download de 0,7 MB",
  "loader_force": false,
- "build_id": 1792168184087,
+ "build_id": 1792275716851,
  "files": [
   {
+   "path": "loader/loader.build",
+   "sha256": "bdd9c8d05336ff5e1be8093aa4aee358853f40a1f1755afb838060f33b33f7fd",
+   "size": 13
+  },
+  {
    "path": "loader/loader.exe",
-   "sha256": "d38376048f2ce00bf15ef1a8355f5ba94897a66f3910e6ae21b1a974cb8b3afa",
-   "size": 703125
+   "sha256": "d321a99036030fe76808440ae69188e47e596c61c96c22302c9c208a339b7627",
+   "size": 707221
   },
   {
    "path": "overlay/ImGui.NET.dll",
